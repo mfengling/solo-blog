@@ -10,6 +10,8 @@ SoulArcher 的个人博客
 
 ### 最新
 
+* [Oracle server端字符集修改](https://qinjiao.fun/articles/2020/06/14/1592144242183.html)
+* [Weblogic安装与配置](https://qinjiao.fun/articles/2020/06/14/1592144056341.html)
 * [python 实现斐波那契数列](https://qinjiao.fun/articles/2020/06/10/1591799841763.html)
 * [Python 代码规范小结 ](https://qinjiao.fun/articles/2020/06/09/1591716059669.html)
 
