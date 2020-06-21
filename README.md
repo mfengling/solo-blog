@@ -10,7 +10,12 @@ SoulArcher 的个人博客
 
 ### 最新
 
-* [认识html](https://qinjiao.fun/articles/2020/06/15/1592232581161.html)
+* [Python 对日期时间数据的处理](https://qinjiao.fun/articles/2020/06/18/1592444412942.html)
+* [Python 技巧之推导式](https://qinjiao.fun/articles/2020/06/17/1592387976537.html)
+* [Python 列表与字典互转](https://qinjiao.fun/articles/2020/06/17/1592386565698.html)
+* [Python3 base64编码与解码](https://qinjiao.fun/articles/2020/06/17/1592358094419.html)
+* [认识html（2）](https://qinjiao.fun/articles/2020/06/16/1592320549307.html)
+* [认识html（一）](https://qinjiao.fun/articles/2020/06/15/1592232581161.html)
 * [Oracle server端字符集修改](https://qinjiao.fun/articles/2020/06/14/1592144242183.html)
 * [Weblogic安装与配置](https://qinjiao.fun/articles/2020/06/14/1592144056341.html)
 * [python 实现斐波那契数列](https://qinjiao.fun/articles/2020/06/10/1591799841763.html)
