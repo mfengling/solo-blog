@@ -10,6 +10,7 @@ SoulArcher 的个人博客
 
 ### 最新
 
+* [Mysql5.7 二进制安装](https://qinjiao.fun/articles/2020/06/28/1593318020743.html)
 * [数据库产品排行榜](https://qinjiao.fun/articles/2020/06/27/1593269773595.html)
 * [Python 对日期时间数据的处理](https://qinjiao.fun/articles/2020/06/18/1592444412942.html)
 * [Python 技巧之推导式](https://qinjiao.fun/articles/2020/06/17/1592387976537.html)
